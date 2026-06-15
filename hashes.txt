@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Aquel primer abrazo tierno
+
+This log tracks the cryptographic history and versioning for the song **Aquel primer abrazo tierno** (aquel-primer-abrazo-tierno).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T10:49:08.401668 | `v1` | `9798c21268074b40f1c5b09e68162609702cca981adf7ad467785aa889cf59fd` | `c661631b51f3abc1b16744ebe219ba1e02c270b6032fcba3c218273b35f7b2f0` | `2026-06-15_aquel-primer-abrazo-tierno-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aquel-primer-abrazo-tierno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Aquel primer abrazo tierno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquel-primer-abrazo-tierno/) |
+| **Get License** | [Request Licensing for Aquel primer abrazo tierno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquel-primer-abrazo-tierno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9798c21268074b40f1c5b09e68162609702cca981adf7ad467785aa889cf59fd` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
